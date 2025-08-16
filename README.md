@@ -1,4 +1,4 @@
 # silus-in-espanol
 Silus in Spanish
 
-Mundo de Juegos de silus
+silus gaming world in spanish = Mundo de Juegos de silus
